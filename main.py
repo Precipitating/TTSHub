@@ -1,3 +1,5 @@
-import neutts
+import subprocess
+import sys
+
 if __name__ == "__main__":
-    neutts.initialize()
+    subprocess.run([sys.executable ,"Chatter.py"], cwd="Chatterbox-TTS-Extended" )
