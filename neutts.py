@@ -1,0 +1,2 @@
+def initialize():
+    print("lol")
