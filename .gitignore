@@ -305,3 +305,4 @@ chatterboxVenv/
 fastmayaVenv/
 fastneuttsVenv/
 *.mp3
+*.wav
