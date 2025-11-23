@@ -26,7 +26,7 @@ if exist "fastmayaVenv" (
     echo =========================================
 
     python -m pip install %REPO_URL%
-    pip3 install torch torchaudio torchvision --index-url https://download.pytorch.org/whl/cu130
+    python -m pip install hf_xet
 
     echo =========================================
     echo Done!
